@@ -1,46 +1,61 @@
 # Akshit Pareta
 
-**Forward Deployed AI Engineer** — I build and ship production AI systems that businesses run on every day. Not demos. Not prototypes. Production.
+**Forward Deployed AI Engineer · AI Full-Stack Builder · Product-to-Production Delivery**
 
-Bundi, Rajasthan, India · akshitpareta01@gmail.com · +91-9680810188
+Jaipur, Rajasthan, India · [akshitpareta101@gmail.com](mailto:akshitpareta101@gmail.com) · [+91 96808 10188](tel:+919680810188)  
+[Portfolio](https://akshitpareta.com) · [LinkedIn](https://www.linkedin.com/in/akshit-pareta-ai) · [GitHub](https://github.com/Akshit1018)
 
 ---
 
-### What I do
+I work at the intersection of customer discovery, AI systems, full-stack engineering, and delivery ownership. I like taking messy business workflows, understanding the real operating constraint, and turning them into usable products: AI/RAG workflows, internal tools, mobile apps, admin panels, APIs, dashboards, and release-ready systems.
 
-I walk into a business that can't articulate its problem, figure out what's actually broken, and ship an AI system that stays in production. I've done this **50+ times across 8 industries** — legal, finance, manufacturing, retail, agriculture, healthcare, e-commerce, and education.
+My strongest lane is **forward-deployed engineering**: staying close to founders, operators, and users while also owning implementation across product, backend, frontend, mobile, integrations, deployment, QA, and iteration.
 
-Right now I lead a 20-person team at **Gosotek Technology**, architecting production AI: multi-tenant RAG, multi-agent orchestration, and a **self-hosted 2× RTX 5090 inference cluster** (64GB VRAM) running quantized Qwen-72B via vLLM. I own the metal, the evals, and the outcomes.
+## What I build
 
-### Highlights
+- **AI/RAG and agent systems:** retrieval workflows, citation grounding, human review loops, multi-agent routing, model/workflow orchestration, and business-process automation.
+- **Full-stack products:** React/Next.js, TypeScript/JavaScript, Python/FastAPI, Laravel/PHP, Node.js, PostgreSQL/MySQL, Firebase, WordPress, Shopify, and Frappe-style ERP workflows.
+- **Mobile and operations apps:** Flutter/Dart, Swift/iOS, admin dashboards, CRM/ERP/HRM-style modules, field-sales flows, stock/accounting support, WhatsApp/email workflows, and reporting.
+- **Production delivery:** Linux, Docker, Nginx, Hostinger/KVM/VPS, AWS/GCP, App Store / Play Store release checks, monitoring basics, cost-aware deployment, and post-launch support.
 
-- **Legal LLM** — multi-tenant RAG over ~15K legal docs; 340-case golden-set eval drove citation precision **71% → 89%**, hallucination held at ~2–3%; saves 15–30 hrs/week per attorney.
-- **OpenSalesAI** — LangGraph multi-agent sales platform, supervisor routes to 5 specialist agents over Qdrant RAG.
-- **Swarm OS** — multi-agent harness coordinating **50+ concurrent agents** across 5 frontier models with per-agent context budgeting and cycle detection.
-- **Self-hosted inference** — Qwen-72B (INT4) via vLLM, 30–40 tok/s, p95 first-token latency <1s, ~₹40K/month cloud avoided.
+## Featured open-source work
 
-### Stack
+| Project | Focus | Why it matters |
+|---|---|---|
+| [OpenSalesAI](https://github.com/Akshit1018/OpenSalesAI) | Multi-agent sales intelligence | LangGraph-style supervisor routing, specialist agents, RAG, and dashboard thinking for route-to-market teams. |
+| [stockkup](https://github.com/Akshit1018/stockkup) | Stock / trading product workspace | TypeScript product/codebase for market-facing workflows; needs clearer public README next. |
+| [uttar-sewa](https://github.com/Akshit1018/uttar-sewa) | AI service platform | FastAPI/frontend concept for intake, service diagnosis, and provider matching. |
+| [Agent-harness-system](https://github.com/Akshit1018/Agent-harness-system) | Agent orchestration harness | Orchestrator/worker topology, context budgeting, iteration limits, and dependency-cycle detection. |
+| [my-n8n-project](https://github.com/Akshit1018/my-n8n-project) | Automation workflow library | Reusable n8n workflows across RAG, sales, content, email, recruiting, documents, voice AI, research, security, and ecommerce. |
+| [gemini-skill](https://github.com/Akshit1018/gemini-skill) | AI skill / workflow tooling | Python-based workflow/skill repository for agent-assisted execution. |
 
-`RAG` · `Multi-Agent (LangGraph)` · `QLoRA` · `vLLM` · `ChromaDB` · `Qdrant` · `MCP` · `Python` · `TypeScript` · `FastAPI` · `Next.js` · `Flutter` · `Docker`
+## Agent, Codex, and workflow tooling
 
-### Open source
-
-| Repo | What |
+| Project | Focus |
 |---|---|
-| [OpenSalesAI](https://github.com/Akshit1018/OpenSalesAI) | LangGraph multi-agent sales intelligence platform |
-| [Agent-harness-system](https://github.com/Akshit1018/Agent-harness-system) | Multi-agent harness — context budgeting + cycle detection |
-| [my-n8n-project](https://github.com/Akshit1018/my-n8n-project) | 78 reusable N8N workflow templates across 10 domains |
-| [uttar-sewa](https://github.com/Akshit1018/uttar-sewa) | AI service platform — FastAPI intake + provider matching |
+| [codex-skills](https://github.com/Akshit1018/codex-skills) | Curated Codex skills for deploys, QA, PDFs, screenshots, transcription, security, GitHub workflows, and app-building support. |
+| [codex-agents](https://github.com/Akshit1018/codex-agents) | Codex agent definitions for architecture, review, build resolution, release, and open-source workflows. |
+| [claude-code-agents](https://github.com/Akshit1018/claude-code-agents) | Claude Code agent definitions and workflow roles. |
+| [claude-code-commands](https://github.com/Akshit1018/claude-code-commands) | Claude Code slash-command collection for planning, review, orchestration, memory, and per-language workflows. |
+| [product-positioning-skill](https://github.com/Akshit1018/product-positioning-skill) | Skill package for product positioning, taglines, brand voice, ICP, and category design. |
+| [migration-safe-](https://github.com/Akshit1018/migration-safe-) | Migration safety scripts and operational helpers. |
+| [super-produtiove-orcastrator-](https://github.com/Akshit1018/super-produtiove-orcastrator-) | Early orchestration/tooling experiment; public cleanup pending. |
+| [lawyerJI](https://github.com/Akshit1018/lawyerJI) | Legal AI workspace placeholder; public README/content cleanup pending. |
 
-### Background
+## Current positioning
 
-Commerce-educated (M.Com, Kota University), self-taught as an engineer. That's not a weakness — it's why my deployments get adopted: I read the workflow and the P&L before I write the spec.
+I am strongest for roles where the work is not just writing isolated tickets. Good fits are:
 
-### Let's talk
+- Forward Deployed Engineer / Forward Deployed AI Engineer
+- AI Full-Stack Engineer
+- Applied AI Engineer
+- Solutions Engineer / Solutions Architect for AI products
+- Technical Product Manager for AI, automation, or internal-platform products
 
-- 📧 akshitpareta01@gmail.com
-- 📱 WhatsApp: +91-9680810188
-- 🌐 [akshitpareta.com](https://akshitpareta.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/akshitpareta)
+## Background
 
-*Available for Forward Deployed Engineer / AI Engineer roles — remote worldwide.*
+Commerce-educated and self-taught as an engineer. That combination is useful in founder-facing work: I can read the workflow, numbers, incentives, and operational tradeoffs before deciding what to build.
+
+---
+
+If you are building AI products, internal tools, automation systems, or field-ready software where product judgment and implementation speed both matter, reach me at [akshitpareta101@gmail.com](mailto:akshitpareta101@gmail.com).
